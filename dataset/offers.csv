@@ -1,0 +1,5 @@
+offer_id,offer_name,price_usd,coins_granted,vip_only
+O1,Starter Pack,4.99,50000,False
+O2,Value Pack,9.99,120000,False
+O3,Mega Pack,19.99,300000,True
+O4,VIP Exclusive,49.99,900000,True
